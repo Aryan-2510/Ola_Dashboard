@@ -1,10 +1,10 @@
 **OLA_Dashboard**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This Power BI dashboard provides an analytical view of OLA ride bookings, cancellations, payments, and customer-driver interactions. The project focuses on key ride metrics, customer behavior, and performance insights to help stakeholders make data-driven decisions.
 
-📊 Features & Insights
+📊 **Features & Insights**
 
 Ride Booking Trends: Track daily, weekly, and monthly ride patterns.
 
@@ -22,91 +22,50 @@ Customer & Driver Ratings: Evaluate service quality based on rating distribution
 
 Ride Distance & Value Analysis: Understand ride distances and booking values to optimize pricing strategies.
 
-📂 Dataset Description
-
+📂 **Dataset Description**
 The dataset consists of 103,024 records with the following key columns:
 
-Column Name
+Column Name                Description
 
-Description
+Date                       Ride booking date
 
-Date
+Time                       Ride booking time
 
-Ride booking date
+Booking_ID                 Unique ride identifier
 
-Time
+Booking_Status             Status (Success, Canceled by Customer/Driver, Incomplete)
 
-Ride booking time
+Customer_ID                Unique customer identifier
 
-Booking_ID
+Vehicle_Type               Type of vehicle booked (Bike, Mini, SUV, etc.)
 
-Unique ride identifier
+Pickup_Location            Starting location of the ride
 
-Booking_Status
+Drop_Location              Destination of the ride
 
-Status (Success, Canceled by Customer/Driver, Incomplete)
+V_TAT                      Vehicle Turnaround Time (in minutes)
 
-Customer_ID
+C_TAT                      Customer Turnaround Time (in minutes)
 
-Unique customer identifier
+Canceled_Rides_by_Customer Reason for ride cancellations by customers
 
-Vehicle_Type
+Canceled_Rides_by_Driver   Reason for ride cancellations by drivers
 
-Type of vehicle booked (Bike, Mini, SUV, etc.)
+Incomplete_Rides           Indicator for incomplete rides
 
-Pickup_Location
+Incomplete_Rides_Reason    Reason for ride incompletion
 
-Starting location of the ride
+Booking_Value              Total fare for the ride
 
-Drop_Location
+Payment_Method             Mode of payment (Cash, UPI, Credit Card, etc.)
 
-Destination of the ride
+Ride_Distance              Distance traveled (in km)
 
-V_TAT
+Driver_Ratings             Rating given to the driver by customers
 
-Vehicle Turnaround Time (in minutes)
+Customer_Rating            Rating given to the customer by drivers
 
-C_TAT
-
-Customer Turnaround Time (in minutes)
-
-Canceled_Rides_by_Customer
-
-Reason for ride cancellations by customers
-
-Canceled_Rides_by_Driver
-
-Reason for ride cancellations by drivers
-
-Incomplete_Rides
-
-Indicator for incomplete rides
-
-Incomplete_Rides_Reason
-
-Reason for ride incompletion
-
-Booking_Value
-
-Total fare for the ride
-
-Payment_Method
-
-Mode of payment (Cash, UPI, Credit Card, etc.)
-
-Ride_Distance
-
-Distance traveled (in km)
-
-Driver_Ratings
-
-Rating given to the driver by customers
-
-Customer_Rating
-
-Rating given to the customer by drivers
-
-🛠️ Tools & Technologies Used
+🛠️ **Tools & Technologies Used**
 
 Power BI - Data visualization and dashboard creation
 
@@ -116,7 +75,7 @@ SQL - Data querying and transformation (if applicable)
 
 DAX (Data Analysis Expressions) - Custom calculations in Power BI
 
-📌 Key Findings
+📌 **Key Findings**
 
 Most Popular Vehicle Type: [To be filled based on analysis]
 
@@ -126,7 +85,7 @@ Major Cancellation Reasons: [To be filled based on analysis]
 
 Customer & Driver Rating Trends: [To be filled based on analysis]
 
-🚀 How to Use
+🚀 **How to Use**
 
 Download the dataset and Power BI file (.pbix).
 
@@ -134,7 +93,7 @@ Open the Power BI file and refresh data sources if required.
 
 Explore different reports, filters, and interactive visuals.
 
-📢 Future Enhancements
+📢 **Future Enhancements**
 
 Integrate live ride data for real-time analysis.
 

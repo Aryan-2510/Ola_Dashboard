@@ -4,6 +4,8 @@
 
 This Power BI dashboard provides an analytical view of OLA ride bookings, cancellations, payments, and customer-driver interactions. The project focuses on key ride metrics, customer behavior, and performance insights to help stakeholders make data-driven decisions.
 
+
+
 📊 **Features & Insights**
 
 Ride Booking Trends: Track daily, weekly, and monthly ride patterns.
@@ -22,7 +24,10 @@ Customer & Driver Ratings: Evaluate service quality based on rating distribution
 
 Ride Distance & Value Analysis: Understand ride distances and booking values to optimize pricing strategies.
 
+
+
 📂 **Dataset Description**
+
 The dataset consists of 103,024 records with the following key columns:
 
 Column Name:                Description
@@ -65,6 +70,8 @@ Driver_Ratings      :       Rating given to the driver by customers
 
 Customer_Rating    :        Rating given to the customer by drivers
 
+
+
 🛠️ **Tools & Technologies Used**
 
 Power BI - Data visualization and dashboard creation
@@ -74,6 +81,8 @@ Excel / CSV - Data preprocessing and analysis
 SQL - Data querying and transformation (if applicable)
 
 DAX (Data Analysis Expressions) - Custom calculations in Power BI
+
+
 
 📌 **Key Findings**
 
@@ -85,6 +94,8 @@ Major Cancellation Reasons: [To be filled based on analysis]
 
 Customer & Driver Rating Trends: [To be filled based on analysis]
 
+
+
 🚀 **How to Use**
 
 Download the dataset and Power BI file (.pbix).
@@ -92,6 +103,8 @@ Download the dataset and Power BI file (.pbix).
 Open the Power BI file and refresh data sources if required.
 
 Explore different reports, filters, and interactive visuals.
+
+
 
 📢 **Future Enhancements**
 

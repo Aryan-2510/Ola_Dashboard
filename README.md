@@ -114,3 +114,7 @@ Add predictive analytics for ride demand forecasting.
 
 Optimize pricing models based on ride patterns.
 
+SNAPS
+
+Overall Dashboard
+![Dashboard Overview](/)

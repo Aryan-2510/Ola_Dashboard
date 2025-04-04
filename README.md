@@ -25,45 +25,45 @@ Ride Distance & Value Analysis: Understand ride distances and booking values to 
 📂 **Dataset Description**
 The dataset consists of 103,024 records with the following key columns:
 
-Column Name                Description
+Column Name:                Description
 
-Date                       Ride booking date
+Date      :                 Ride booking date
 
-Time                       Ride booking time
+Time        :               Ride booking time
 
-Booking_ID                 Unique ride identifier
+Booking_ID   :              Unique ride identifier
 
-Booking_Status             Status (Success, Canceled by Customer/Driver, Incomplete)
+Booking_Status :            Status (Success, Canceled by Customer/Driver, Incomplete)
 
-Customer_ID                Unique customer identifier
+Customer_ID   :             Unique customer identifier
 
-Vehicle_Type               Type of vehicle booked (Bike, Mini, SUV, etc.)
+Vehicle_Type   :            Type of vehicle booked (Bike, Mini, SUV, etc.)
 
-Pickup_Location            Starting location of the ride
+Pickup_Location  :          Starting location of the ride
 
-Drop_Location              Destination of the ride
+Drop_Location    :          Destination of the ride
 
-V_TAT                      Vehicle Turnaround Time (in minutes)
+V_TAT      :                Vehicle Turnaround Time (in minutes)
 
-C_TAT                      Customer Turnaround Time (in minutes)
+C_TAT        :              Customer Turnaround Time (in minutes)
 
-Canceled_Rides_by_Customer Reason for ride cancellations by customers
+Canceled_Rides_by_Customer: Reason for ride cancellations by customers
 
-Canceled_Rides_by_Driver   Reason for ride cancellations by drivers
+Canceled_Rides_by_Driver :  Reason for ride cancellations by drivers
 
-Incomplete_Rides           Indicator for incomplete rides
+Incomplete_Rides    :       Indicator for incomplete rides
 
-Incomplete_Rides_Reason    Reason for ride incompletion
+Incomplete_Rides_Reason:    Reason for ride incompletion
 
-Booking_Value              Total fare for the ride
+Booking_Value    :          Total fare for the ride
 
-Payment_Method             Mode of payment (Cash, UPI, Credit Card, etc.)
+Payment_Method   :          Mode of payment (Cash, UPI, Credit Card, etc.)
 
-Ride_Distance              Distance traveled (in km)
+Ride_Distance     :         Distance traveled (in km)
 
-Driver_Ratings             Rating given to the driver by customers
+Driver_Ratings      :       Rating given to the driver by customers
 
-Customer_Rating            Rating given to the customer by drivers
+Customer_Rating    :        Rating given to the customer by drivers
 
 🛠️ **Tools & Technologies Used**
 

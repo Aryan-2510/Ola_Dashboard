@@ -1,4 +1,4 @@
-##OLA Dashboard - Power BI Project
+##OLA_Dashboard
 
 📌 Project Overview
 

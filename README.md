@@ -117,4 +117,4 @@ Optimize pricing models based on ride patterns.
 SNAPS
 
 Overall Dashboard
-![Dashboard Overview](/)
+![Dashboard Overview](overall dashboard.png)

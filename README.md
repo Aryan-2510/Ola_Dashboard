@@ -116,5 +116,8 @@ Optimize pricing models based on ride patterns.
 
 SNAPS
 
-![Snap 1](Ola_Dashboard/overall dashboard.png)
-![Snap 2](revenue.png)
+![Snap 1](overalldashboard.png)
+![Snap 2](vehicletype.png)
+![Snap 3](revenue.png)
+![Snap 4](cancellation.png)
+![Snap 5](Ratings.png)

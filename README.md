@@ -114,10 +114,19 @@ Add predictive analytics for ride demand forecasting.
 
 Optimize pricing models based on ride patterns.
 
-SNAPS
+**SNAPS**
 
+**Overall Dashboard**
 ![Snap 1](overalldashboard.png)
+
+**Vehicle Type**
 ![Snap 2](vehicletype.png)
+
+**Revenue**
 ![Snap 3](revenue.png)
+
+**Cancellation**
 ![Snap 4](cancellation.png)
+
+**Ratings**
 ![Snap 5](Ratings.png)
